@@ -9,7 +9,7 @@ By following this tutorial you will learn:
 - What equipment you will need and how to set up your Raspberry Pi
 - How to download and install the software you need on an SD card
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=curioschron01-21&marketplace=amazon&region=FR&placement=B01CD5VC92&asins=B01CD5VC92&linkId=&show_border=false&link_opens_in_new_window=true"></iframe>
+<a rel="nofollow" href="https://www.amazon.fr/gp/product/B01CD5VC92/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01CD5VC92&linkCode=as2&tag=curioschron01-21">Raspberry Pi Carte Mère 3 Model B Quad Core CPU 1.2 GHz 1 Go RAM</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01CD5VC92" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Licence
 
