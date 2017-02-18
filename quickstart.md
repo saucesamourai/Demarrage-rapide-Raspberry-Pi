@@ -24,7 +24,7 @@ Le moyen le plus simple est le plus rapide est d'acheter une carte SD où le sof
 
 ## Solution n°2 : Charger vous-même NOOBS ou Raspbian sur une carte SD vierge.
 
-L'autre solution est de télécharger NOOBS ou Raspian gratuitement et de l'installer sur votre carte. Prenez une carte d'au minimum 8 Go. Si vous n'en avez pas, pour moins de 10 euros, nous vous conseillons cette <a rel="nofollow" href="https://www.amazon.fr/gp/product/B013UDL5V6/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B013UDL5V6&linkCode=as2&tag=curioschron01-21">Carte microSDHC SanDisk Ultra 16GB classe 10, avec une vitesse de lecture élevée</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B013UDL5V6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+L'autre solution est de télécharger NOOBS ou Raspian gratuitement et de l'installer sur votre carte. Prenez une carte d'au minimum 8 Go. Si vous n'en avez pas, pour moins de 10 euros, nous vous conseillons cette <a rel="nofollow" href="https://www.amazon.fr/gp/product/B013UDL5V6/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B013UDL5V6&linkCode=as2&tag=curioschron01-21">carte microSDHC SanDisk Ultra 16GB classe 10, avec une vitesse de lecture élevée.</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B013UDL5V6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Formatez votre carte SD
 Le mieux est de formater votre carte SD sur votre PC ou portable avant d'y copier les fichiers NOOBS ou l'image Raspbian.
