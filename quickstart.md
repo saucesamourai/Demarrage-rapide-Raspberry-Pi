@@ -1,4 +1,4 @@
-# Raspberry Pi Quick Start Guide
+# Guide de démarrage rapide Raspberry Pi
 
 Got a Raspberry Pi? Great: let's get started by making sure you have all the cables and accessories before plugging them all in and logging in for the first time.
 
@@ -8,37 +8,48 @@ Before you plug anything into your Raspberry Pi, make sure that you have all the
 
 ![](images/all-the-things.png)
 
+Pour commencer, il vous faudra également un système d'exploitation (OS). NOOBS est un installateur d'OS hyper facile à utiliser pour Raspberry Pi. Raspbian est l'OS le plus répandu dans le monde Raspberry Pi.
+
+
 To get started with Raspberry Pi, you also need an operating system. NOOBS (New Out Of Box Software) is an easy operating system install manager for the Raspberry Pi. Raspbian is the most common operating system used with the Raspberry Pi. You can download a Raspbian image to an SD card.
 
-### Buy a preinstalled SD card
+## Solution n°1 : Acheter un carte SD avec NOOBS préinstallé
+
+Le moyen le plus simple est le plus rapide est d'acheter une carte SD où le software est déjà installé. Si vous avez déjà acheté une de ces carte, alors vous pouvez sauter jusqu'à la section 'Brancher for Raspberry Pi' un peu plus bas.
+
+<a rel="nofollow" href="https://www.amazon.fr/gp/product/B01CCM6B1K/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01CCM6B1K&linkCode=as2&tag=curioschron01-21">Carte SD officielle de 8 Go</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01CCM6B1K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.fr/gp/product/B01CCM6B1K/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01CCM6B1K&linkCode=as2&tag=curioschron01-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01CCM6B1K&Format=_SL110_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=curioschron01-21" ></a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01CCM6B1K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 
 The easiest way to get NOOBS or Raspbian is to buy an SD card with the software already installed, available online from various resellers. If you have purchased one of these cards, then you can skip to 'Plugging in your Raspberry Pi' below.
 
-Alternatively, if you have a spare SD card (8GB recommended), then you can download NOOBS or Raspbian for free and install it on your card.
+## Solution n°2 : Charger vous-même NOOBS ou Raspbian sur une carte SD vierge.
 
-## Format your SD card
+L'autre solution est de télécharger NOOBS ou Raspian gratuitement et de l'installer sur votre carte. Prenez une carte d'au minimum 8 Go. Si vous n'en avez pas, pour moins de 10 euros, nous vous conseillons cette <a rel="nofollow" href="https://www.amazon.fr/gp/product/B013UDL5V6/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B013UDL5V6&linkCode=as2&tag=curioschron01-21">Carte microSDHC SanDisk Ultra 16GB classe 10, avec une vitesse de lecture élevée</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B013UDL5V6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-It is best to format your SD card on your computer or laptop before copying the NOOBS files onto it or adding the Raspbian image. To do this:
+## Formatez votre carte SD
+Le mieux est de formater votre carte SD sur votre PC ou portable avant d'y copier les fichiers NOOBS ou l'image Raspbian.
+Pour ce faire:
 
-1. Visit the [SD Association’s website](http://www.sdcard.org/) and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for either Windows or Mac.
-1. Follow the instructions to install the software.
-1. Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
-1. In SD Formatter, select the drive letter for your SD card and format it.
+1. Visitez le site [SD Association](http://www.sdcard.org/) et téléchargez [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) pour Windows ou Mac.
+1. Suivez les instructions pour installer l'application.
+1. Inserez votre carte SD dans votre lecteur de carte ou prenez note de la lettre du lecteur associé, par exemple: `F:/`.
+1. Dans SD Formatter, selectionnez la lettre du lecteur de votre carte SD card et formattez la.
 
   ![](images/SD-Formatter.jpg)
 
-### Download NOOBS files then drag and drop
+### Téléchargez les fichiers NOOBS et glissez-déposez dans la carte
 
-1. Using a computer with an SD card reader, visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
+1. Toujours sur votre ordinateur, visitez [le site officiel Raspberry](http://www.raspberrypi.org/downloads/).
 
   ![](images/siteHome.png)
 
-1. Click on **NOOBS**.
+1. Cliquez sur **NOOBS**.
 
   ![](images/noobs1.png)
 
-1. Click on the **Download ZIP** button under ‘NOOBS (offline and network install)’, and select a folder to save it to.
-1. Extract the files from the zip.
+1. Cliquez sur le bouton **Download ZIP** sous ‘NOOBS (offline and network install)’, et sélectionnez le dossier de destination.
+1. Extrayez les fichiers du zip.
 1. Once your SD card has been formatted, drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
 1. The necessary files will then be transferred to your SD card.
 1. When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
