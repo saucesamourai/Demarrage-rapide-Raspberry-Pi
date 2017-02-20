@@ -8,8 +8,16 @@ Avant de brancher quoi que ce soit, vérifions que tout est là :
 
 ![](images/all-the-things.png)
 
-Les éléments indispensables : 
+Les éléments indispensables :
+* Un écran de télévision ou un moniteur, dans tous les cas avec une entrée HDMI.
+![](monitor.png)
+Le plus simple est certainement de prendre votre TV, mais si vous n'avez rien, vous pouvez acheter des écrans de Raspberry pour une somme modique :
+ * Nous ne l'avons pas testé, mais <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01HPV7D38/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01HPV7D38&linkCode=as2&tag=curioschron01-21">Cet écran LDC 5 pouces à 35 €</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01HPV7D38" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> est très bien noté par les clients.
+ * Ou vous pouvez opter pour <a rel="nofollow" href="https://www.amazon.fr/gp/product/B014WKCFR4/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B014WKCFR4&linkCode=as2&tag=curioschron01-21"> l'écran tactile 7 pouces Raspberry Pi à 84€</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B014WKCFR4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+
+
 * Un clavier et une souris.
+![](keyboard.png)
  * Si vous ne voulez pas vous en servir tous les jours, vous pouvez opter pour cet ensemble premier prix clavier souris Bluestork à environ 9€. <a rel="nofollow" href="https://www.amazon.fr/gp/product/B005MMIG02/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B005MMIG02&linkCode=as2&tag=curioschron01-21">Bluestork BS-PACK-FIRST-II/F Clavier multimédia AZERTY + Souris filaire - Noir</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B005MMIG02" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
  * Si vous ne voulez pas vous encombrer d'un grand clavier, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01B17SSYU/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01B17SSYU&linkCode=as2&tag=curioschron01-21">ce mini clavier avec trackpad intégré Geartist</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01B17SSYU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> fonctionne sans fil et s'installe hyper quelques secondes. Pour 16€, vous avez un clavier qui rentre dans tiroir, et qui peut vous servir pour votre Google TV, Xbox, PS3, etc. Attention en revanche, le clavier est en QWERTY et le trackpad est moins pratique qu'une souris à main.
  * Si vous voulez investir dans un clavier et une souris de bonne qualité avec un budget restant raisonnable, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B00BF5QDZU/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B00BF5QDZU&linkCode=as2&tag=curioschron01-21">cet ensemble clavier + Souris - Logitech Combo MK270 sans fil</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B00BF5QDZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> est une valeur sûre et une des meilleurs ventes de la catégorie, pour moins de 25€.
