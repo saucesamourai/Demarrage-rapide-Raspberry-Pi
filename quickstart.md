@@ -1,3 +1,4 @@
+![](BuildnPlay_small.png)
 # Guide de démarrage rapide Raspberry Pi
 
 Vous avez votre Raspberry Pi ? Super ! Commencons par nous assurer que vous avez bien tout les câbles et accesoires nécessaires avant de brancher et démarrer la machine pour la première fois.
