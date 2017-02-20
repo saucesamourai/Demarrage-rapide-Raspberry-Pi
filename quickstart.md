@@ -2,13 +2,13 @@
 
 Vous avez votre Raspberry Pi ? Super ! Commencons par nous assurer que vous avez bien tout les câbles et accesoires nécessaires avant de brancher et démarrer la machine pour la première fois.
 
-## Check you have the equipment you need
+## Vérification des équipements
 
 Avant de brancher quoi que ce soit, vérifions que tout est là :
 
 ![](images/all-the-things.png)
 
-Les éléments indispensables :
+### Les éléments indispensables :
 * Un écran de télévision ou un moniteur, dans tous les cas avec une entrée HDMI.
 ![](monitor.png)
 Le plus simple est certainement de prendre votre TV, mais si vous n'avez rien, vous pouvez acheter des écrans de Raspberry pour une somme modique :
@@ -25,13 +25,14 @@ Le plus simple est certainement de prendre votre TV, mais si vous n'avez rien, v
 * Un câble HDMI
  * <a rel="nofollow" href="https://www.amazon.fr/gp/product/B014I8SSD0/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B014I8SSD0&linkCode=as2&tag=curioschron01-21">Nous vous suggerons ce câble HDMI 2.0 de 1,8 m à 6,5€. Ne prenez pas moins d'un mètre, c'est souvent trop court pour se connecter confortablement à l'ordinateur ou la TV.</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B014I8SSD0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-
-
-
+### Les éléments facultatifs mais pratiques
+* Un volmètre pour mesurer les courants et les tensions pour mieux comprendre vos montages et résoudre les problèmes.
+ * Nous avons testé <a rel="nofollow" href="https://www.amazon.fr/gp/product/B011NP2DGY/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B011NP2DGY&linkCode=as2&tag=curioschron01-21">ce premier prix à moins de 10€. Il ne durera pas toute une vie mais il fait le boulot correctement</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B011NP2DGY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+ * Sinon, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B00S7J7L7Q/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B00S7J7L7Q&linkCode=as2&tag=curioschron01-21">ce multimètre à 19€</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B00S7J7L7Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> semble être une valeur sûre et plus robuste.
+ 
+### Le système d'exploitation
 Pour commencer, il vous faudra également un système d'exploitation (OS). NOOBS est un installateur d'OS hyper facile à utiliser pour Raspberry Pi. Raspbian est l'OS le plus répandu dans le monde Raspberry Pi.
 
-
-To get started with Raspberry Pi, you also need an operating system. NOOBS (New Out Of Box Software) is an easy operating system install manager for the Raspberry Pi. Raspbian is the most common operating system used with the Raspberry Pi. You can download a Raspbian image to an SD card.
 
 ## Solution n°1 : Acheter un carte SD avec NOOBS préinstallé
 
@@ -76,43 +77,46 @@ Pour ce faire:
 <iframe src="https://player.vimeo.com/video/90518800" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p></p>
 
-### Download and image Raspbian directly
+### Télécharger une image de Raspbian directement
 
-An alternative to using NOOBS to install Raspbian is to download and install the image directly. This is a faster process, and great if you need to image multiple cards for a workshop or class.
+La solution alternative à NOOBS et de télécharger et installer directement une image fonctionnelle sur la carte SD. C'est plus rapide et aussi très pratique lorsque vous devez préparez plusieurs cartes pour un atelier ou un cours.
 
-1. Using a computer with an SD card reader, visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
-1. Click on **Raspbian**.
+1. En utilisant un ordinateur muni d'un lecteur de cartes SD, visitez le site officiel Raspberry Pi [page téléchargements](http://www.raspberrypi.org/downloads/).
+1. Cliquez sur **Raspbian**.
 
   ![](images/noobs1.png)
 
-1. Click on the **Download ZIP** button under ‘Raspbian Jessie (full desktop image)’, and select a folder to save it to.
-1. Extract the files from the zip.
+1. Cliquez sur le bouton **Download ZIP** situé sous ‘Raspbian Jessie (full desktop image)’, et sélectionnez un dossier de téléchargement.
+1. Décompressez les fichiers du zip.
 
   ![](images/noobs2.png)
 
-1. Visit [etcher.io](http://www.etcher.io/), and download and install the Etcher SD card image utility.
-1. Run Etcher and select the Raspbian image you unzipped on your computer or laptop.
-1. Then select the SD card drive. Note that the software may have already selected the right drive.
-1. Finally, click **Burn** to transfer Raspbian to the SD card. You will see a progress bar that tells you how much is left to do. Once complete, the utility will automatically eject or unmount the SD card so it is safe to remove it from the computer.
+1. Visitez [etcher.io](http://www.etcher.io/), et téléchargez et installez Etcher SD card image utility.
+1. Démarrez Etcher et sélecitonnez l'image Raspbian que vous avez décompressée sur votre ordinateur.
+1. Selectionnez le lecteur de la carte SD. Remarquez que l'application a peut être sélectionné par défaut le bon lecteur.
+1. Enfin, cliquez sur **Burn** pour transferer Raspbian sur la carte SD. Lorsque c'est terminé l'application ejecte automatiquement la carte, qui peut être retirée de l'ordinateur en sécurité.
 
-  ![](images/etcher.gif)
+  ![](images/etcher.gif)
 
-## Plugging in your Raspberry Pi
+## Brancher votre Raspberry Pi
 
-1. Begin by slotting your SD card into the SD card slot on the Raspberry Pi. It will only fit one way.
-1. Next, plug in your USB keyboard and mouse into the USB ports on the Raspberry Pi.
-1. Make sure that your monitor or TV is turned on, and that you have selected the right input (e.g. HDMI 1, DVI, etc).
-1. Connect your HDMI cable from your Raspberry Pi to your monitor or TV.
-1. If you intend to connect your Raspberry Pi to the internet, plug an Ethernet cable into the Ethernet port, or connect a WiFi dongle to one of the USB ports. 
-1. When you are happy that you have plugged all the cables and SD card in correctly, connect the micro USB power supply. This action will turn on and boot your Raspberry Pi.
+**Attention**, lorsque vous manipulez votre Raspberry Pi, évitez de toucher les broches ou les composants avec les doigts. Vous pourriez décharger de l'électricité statique qui endommagerait votre carte. Le mieux est de la tenir par les rebords et de ne pas y toucher lorsqu'elle est sous tension.
 
-  ![Plugging in](images/plug-in.gif)
+1. Introduisez votre carte micro SD dans le lecteur du Raspberry Pi, situé en dessous de la carte. Vous ne pouvez pas vous tromper de sens, car il y a un détrompeur.
+1. Ensuite, branchez votre clavier et votre souris (ou leur émetteur sans fil) dans les ports USB. 
+1. Assurez vous que votre moniteur ou votre TV est allumé(e), et que vous avez bien sélectionné la bonne sortie (HDMI 1, DVI, etc.).
+1. Connectez votre câble HDMI du Raspberry à votre écran.
+1. Si vous souhaitez connecte votre Raspberry Pi à internet par le réseau filaire, branchez un câble Ethernet.
+1. Lorsque tout est prêt, branchez votre cordon d'alimentation micro USB.
 
-1. If this is the first time your Raspberry Pi and SD card have been used, then you will have to select an operating system and configure it.
+  ![Plugging in](images/plug-in.gif)
+
+
+1. Si c'est votre premier démarrage, vous devez installer le système d'exploitation et le configurer.
 
 <iframe src="https://player.vimeo.com/video/91631396" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## The first time you power on
+## Premier démarrage
 
 1. Once you have plugged in the power cable to your Raspberry Pi, it will boot; if you are using NOOBS, a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian: tick the box next to Raspbian and click on **Install**.
 
