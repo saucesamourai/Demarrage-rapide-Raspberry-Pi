@@ -8,13 +8,30 @@ Avant de brancher quoi que ce soit, vérifions que tout est là :
 
 ![](images/all-the-things.png)
 
-### Les éléments indispensables :
+### Le Raspberry Pi et les accessoires indispensables :
+Si vous n'avez encore rien acheté, le plus simple est peut être de prendre <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01CI5879A/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01CI5879A&linkCode=as2&tag=curioschron01-21">le kit officiel Raspberry Pi</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01CI5879A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, qui comprend tous les éléments de cette section (La carte Raspberry Pi, la carte SD avec NOOBS préinstallé, l'alimentation micro USB et en plus un boîtier) pour un prix total de 66€.
+
+Sinon, vous pouvez acheter les éléments séparément :
+
+* Un Raspberry Pi 3, évidemment. <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01CD5VC92/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01CD5VC92&linkCode=as2&tag=curioschron01-21">Vous le trouverez ici pour 45€ environ. </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01CD5VC92" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+* Un câble HDMI
+ * <a rel="nofollow" href="https://www.amazon.fr/gp/product/B014I8SSD0/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B014I8SSD0&linkCode=as2&tag=curioschron01-21">Nous vous suggerons ce câble HDMI 2.0 de 1,8 m à 6,5€. Ne prenez pas moins d'un mètre, c'est souvent trop court pour se connecter confortablement à l'ordinateur ou la TV.</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B014I8SSD0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+* Une alimentation micro USB
+ * Nous vous conseillons <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01M58O9M9/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01M58O9M9&linkCode=as2&tag=curioschron01-21">cette alimentation Aukru à 13€ </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01M58O9M9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> car elle est munie d'un interrupteur. C'est très pratique car nous allons faire des montages et donc nous allons devoir éteindre et allumer fréquemment le Raspberry Pi. Sans ce bouton, on se retrouve à devoir tirer sur la fiche tout en tenant du bout des doigts la carte pour ne pas mettre les mains sur les composants, c'est moins pratique.
+  * Si vous voulez aller au plus économique, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01566WOAG/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01566WOAG&linkCode=as2&tag=curioschron01-21">cette autre alimentation Aukru coûte 11€, est très bien notée</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01566WOAG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> mais n'a pas d'interrupteur. 
+
+* Une carte SD, le minimum est de 8 Go mais nous vous conseillons pour quelques euros de plus de prendre <a rel="nofollow" href="https://www.amazon.fr/gp/product/B013UDL5V6/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B013UDL5V6&linkCode=as2&tag=curioschron01-21">cette carte Mémoire microSDHC SanDisk Ultra 16GB </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B013UDL5V6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> très rapide et à moins de 8 €.
+
+
+### Les périphériques indispensables :
+
 * Un écran de télévision ou un moniteur, dans tous les cas avec une entrée HDMI.
 ![](monitor.png)
 Le plus simple est certainement de prendre votre TV, mais si vous n'avez rien, vous pouvez acheter des écrans de Raspberry pour une somme modique :
  * Nous ne l'avons pas testé, mais <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01HPV7D38/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01HPV7D38&linkCode=as2&tag=curioschron01-21">Cet écran LDC 5 pouces à 35 €</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01HPV7D38" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> est très bien noté par les clients.
  * Ou vous pouvez opter pour <a rel="nofollow" href="https://www.amazon.fr/gp/product/B014WKCFR4/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B014WKCFR4&linkCode=as2&tag=curioschron01-21"> l'écran tactile 7 pouces Raspberry Pi à 84€</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B014WKCFR4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
-
 
 * Un clavier et une souris.
 ![](keyboard.png)
@@ -22,8 +39,6 @@ Le plus simple est certainement de prendre votre TV, mais si vous n'avez rien, v
  * Si vous ne voulez pas vous encombrer d'un grand clavier, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01B17SSYU/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01B17SSYU&linkCode=as2&tag=curioschron01-21">ce mini clavier avec trackpad intégré Geartist</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01B17SSYU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> fonctionne sans fil et s'installe hyper quelques secondes. Pour 16€, vous avez un clavier qui rentre dans tiroir, et qui peut vous servir pour votre Google TV, Xbox, PS3, etc. Attention en revanche, le clavier est en QWERTY et le trackpad est moins pratique qu'une souris à main.
  * Si vous voulez investir dans un clavier et une souris de bonne qualité avec un budget restant raisonnable, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B00BF5QDZU/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B00BF5QDZU&linkCode=as2&tag=curioschron01-21">cet ensemble clavier + Souris - Logitech Combo MK270 sans fil</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B00BF5QDZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> est une valeur sûre et une des meilleurs ventes de la catégorie, pour moins de 25€.
 
-* Un câble HDMI
- * <a rel="nofollow" href="https://www.amazon.fr/gp/product/B014I8SSD0/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B014I8SSD0&linkCode=as2&tag=curioschron01-21">Nous vous suggerons ce câble HDMI 2.0 de 1,8 m à 6,5€. Ne prenez pas moins d'un mètre, c'est souvent trop court pour se connecter confortablement à l'ordinateur ou la TV.</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B014I8SSD0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### Les éléments facultatifs mais pratiques
 * Un volmètre pour mesurer les courants et les tensions pour mieux comprendre vos montages et résoudre les problèmes.
@@ -118,18 +133,14 @@ La solution alternative à NOOBS et de télécharger et installer directement un
 
 ## Premier démarrage
 
-1. Once you have plugged in the power cable to your Raspberry Pi, it will boot; if you are using NOOBS, a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian: tick the box next to Raspbian and click on **Install**.
+1. Une fois l'alimentation branchée, le Raspberry Pi va démarrer. Si vous utilisez NOOBS, une fenêtre va vous inviter à choisir un système d'exploitation à installer. Nous vous recommandons Raspbian. Cochez la case à cté de Raspbian et cliquez sur **Install**.
 
   ![](images/noobs.png)
 
-1. Raspbian will then run through its installation process. Please note that this can take a while.
-1. When the install process has completed, the Raspberry Pi configuration menu (`raspi-config`) will load. Here you are able to set the time and date for your region, enable a Raspberry Pi camera board, or even create users. You can exit this menu by using **Tab** on your keyboard to move to **Finish**.
-1. If you downloaded Raspbian and imaged it using Etcher rather than using NOOBS, then you will boot directly to the desktop environment of Raspbian and won't need to wait.
+1. Raspbian prendra ensuite quelques minutes pour s'installer.
+1. Lorsque l'installation est terminée, le menu de configuration Raspberry Pi (`raspi-config`) va se charger. Suivez les instructions.
+1. Si vous avez opté pour la solution d'une image Raspbian alors le démarrage sera automatique et vous arriverez directement sur le bureau de Raspbian.
 
-## What next?
+## Que faire ensuite ?
 
-- Learn how to [update your SD card](update-sd-card.md)
-- Connect your Raspberry Pi to [WiFi](wifi.md)
-- Install more [applications](install-apps.md)
-- Discover how to [back up your SD card](backup.md)
-- Get started learning or making with our free [resources](https://www.raspberrypi.org/resources/)
+Votre Raspberry Pi fonctionne! Vous pouvez maintenant passer au [tutorial Internet des Objets](https://github.com/saucesamourai/Raspberry-Pi-tutoriel-debutant-Internet-des-objets-Build-Play/blob/master/README.md), votre premier projet!
