@@ -37,7 +37,7 @@ Sinon, vous pouvez acheter les éléments séparément :
 
 ### Les périphériques indispensables :
 
-<img src="images/monitor.png" height="150" width="125" ><img src="images/mouse.png" height="150" width="125" >
+<img src="images/monitor.png" height="150" width="125" >
 * Un écran de télévision ou un moniteur, dans tous les cas avec une entrée HDMI.
 Le plus simple est certainement de prendre votre TV, mais si vous n'avez rien, vous pouvez acheter des écrans de Raspberry pour une somme modique :
  * Nous ne l'avons pas testé, mais vous trouverez sur Amazon un écran LDC 5 pouces à 35 € très bien noté par les clients.
