@@ -15,33 +15,33 @@ Si vous n'avez encore rien acheté, le plus simple est peut être de prendre <a 
 Sinon, vous pouvez acheter les éléments séparément :
 
 * Un Raspberry Pi 3, évidemment. 
-![](images/raspberry-pi.png)
+![](images/raspberry-pi.png =150x125)
 * <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01CD5VC92/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01CD5VC92&linkCode=as2&tag=curioschron01-21">Vous le trouverez ici pour 45€ environ. </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01CD5VC92" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * Un câble HDMI
-![](images/hdmi-cable.png)
+![](images/hdmi-cable.png =150x125)
  * <a rel="nofollow" href="https://www.amazon.fr/gp/product/B014I8SSD0/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B014I8SSD0&linkCode=as2&tag=curioschron01-21">Nous vous suggerons ce câble HDMI 2.0 de 1,8 m à 6,5€. Ne prenez pas moins d'un mètre, c'est souvent trop court pour se connecter confortablement à l'ordinateur ou la TV.</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B014I8SSD0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * Une alimentation micro USB
-![](images/power-supply.png)
+![](images/power-supply.png =150x125)
  * Nous vous conseillons <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01M58O9M9/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01M58O9M9&linkCode=as2&tag=curioschron01-21">cette alimentation Aukru à 13€ </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01M58O9M9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> car elle est munie d'un interrupteur. C'est très pratique car nous allons faire des montages et donc nous allons devoir éteindre et allumer fréquemment le Raspberry Pi. Sans ce bouton, on se retrouve à devoir tirer sur la fiche tout en tenant du bout des doigts la carte pour ne pas mettre les mains sur les composants, c'est moins pratique.
  * Si vous voulez aller au plus économique, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01566WOAG/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01566WOAG&linkCode=as2&tag=curioschron01-21">cette autre alimentation Aukru coûte 11€, est très bien notée</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01566WOAG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> mais n'a pas d'interrupteur. 
 
-* Une carte SD!
-[](images/noobs-card.png)
+* Une carte SD
+![](images/noobs-card.png =150x125)
  * le minimum est de 8 Go mais nous vous conseillons pour quelques euros de plus de prendre <a rel="nofollow" href="https://www.amazon.fr/gp/product/B013UDL5V6/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B013UDL5V6&linkCode=as2&tag=curioschron01-21">cette carte Mémoire microSDHC SanDisk Ultra 16GB </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B013UDL5V6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> très rapide et à moins de 9 €.
 
 
 ### Les périphériques indispensables :
 
 * Un écran de télévision ou un moniteur, dans tous les cas avec une entrée HDMI.
-![](images/monitor.png)
+![](images/monitor.png =150x125)
 Le plus simple est certainement de prendre votre TV, mais si vous n'avez rien, vous pouvez acheter des écrans de Raspberry pour une somme modique :
  * Nous ne l'avons pas testé, mais <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01HPV7D38/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01HPV7D38&linkCode=as2&tag=curioschron01-21">Cet écran LDC 5 pouces à 35 €</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01HPV7D38" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> est très bien noté par les clients.
  * Ou vous pouvez opter pour <a rel="nofollow" href="https://www.amazon.fr/gp/product/B014WKCFR4/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B014WKCFR4&linkCode=as2&tag=curioschron01-21"> l'écran tactile 7 pouces Raspberry Pi à 84€</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B014WKCFR4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
 
 * Un clavier et une souris.
-![](images/keyboard.png)
+![](images/keyboard.png =150x125)
  * Si vous ne voulez pas vous en servir tous les jours, vous pouvez opter pour cet ensemble premier prix clavier souris Bluestork à environ 9€. <a rel="nofollow" href="https://www.amazon.fr/gp/product/B005MMIG02/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B005MMIG02&linkCode=as2&tag=curioschron01-21">Bluestork BS-PACK-FIRST-II/F Clavier multimédia AZERTY + Souris filaire - Noir</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B005MMIG02" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
  * Si vous ne voulez pas vous encombrer d'un grand clavier, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01B17SSYU/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01B17SSYU&linkCode=as2&tag=curioschron01-21">ce mini clavier avec trackpad intégré Geartist</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01B17SSYU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> fonctionne sans fil et s'installe hyper quelques secondes. Pour 16€, vous avez un clavier qui rentre dans tiroir, et qui peut vous servir pour votre Google TV, Xbox, PS3, etc. Attention en revanche, le clavier est en QWERTY et le trackpad est moins pratique qu'une souris à main.
  * Si vous voulez investir dans un clavier et une souris de bonne qualité avec un budget restant raisonnable, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B00BF5QDZU/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B00BF5QDZU&linkCode=as2&tag=curioschron01-21">cet ensemble clavier + Souris - Logitech Combo MK270 sans fil</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B00BF5QDZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> est une valeur sûre et une des meilleurs ventes de la catégorie, pour moins de 25€.
