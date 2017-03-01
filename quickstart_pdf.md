@@ -1,7 +1,8 @@
 ![](BuildnPlay_small.png)
 # Guide de démarrage rapide Raspberry Pi
 
-Vous avez votre Raspberry Pi ? Super ! Commencons par nous assurer que vous avez bien tout les câbles et accesoires nécessaires avant de brancher et démarrer la machine pour la première fois.
+Vous avez acheté le kit Build & Play Internet des Objets ? Super ! 
+En attendant la livraison, nous vous proposons ce guide pour vous assurer que vous avez bien tous les câbles et accesoires nécessaires, démarrer la machine pour la première fois si ce n'est pas déjà fait et vous préparez à votre premier projet Internet des Objets !
 
 ## Vérification des équipements
 
@@ -9,51 +10,49 @@ Avant de brancher quoi que ce soit, vérifions que tout est là :
 
 ![](images/all-the-things.png)
 
-Nous avons selectionné pour vous faire gagner du temps des produits économiques et de bonne qualité. Les prix affichés sont indicatifs et peuvent varier.
+Ci-après, vous trouverez la liste des éléments nécessaire en plus du kit pour commencer votre premier projet. Sur note guide complet en ligne
+nous avons sélectionné les meilleurs produits, économiques et de bonne qualité pour vous faire gagner du temps. Nous ne pouvons pas les inclure à ce document, mais vous trouverez le lien vers notre guide sur le feuillet inclus dans le kit. 
 
 ### Le Raspberry Pi et les accessoires indispensables :
-Si vous n'avez encore rien acheté, le plus simple est peut être de prendre <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01CI5879A/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01CI5879A&linkCode=as2&tag=curioschron01-21">le kit officiel Raspberry Pi</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01CI5879A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, qui comprend tous les éléments de cette section (La carte Raspberry Pi, la carte SD avec NOOBS préinstallé, l'alimentation micro USB et en plus un boîtier) pour un prix total de 66€.
+Si vous n'avez encore rien acheté, le plus simple est peut être de prendre le kit officiel Raspberry Pi qui comprend tous les éléments de cette section (La carte Raspberry Pi, la carte SD avec NOOBS préinstallé, l'alimentation micro USB et en plus un boîtier).
 
 Sinon, vous pouvez acheter les éléments séparément :
 
 <img src="images/raspberry-pi.png" height="150" width="125" >
-* Un Raspberry Pi 3, évidemment. 
- * <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01CD5VC92/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01CD5VC92&linkCode=as2&tag=curioschron01-21">Vous le trouverez ici pour 45€ environ. </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01CD5VC92" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* Un Raspberry Pi 3, évidemment. Notre kit fonctionne avec les autres versions de Raspberry, mais les tutoriels sont conçus pour la version 3.
+ * Vous le trouverez pour 45€ environ. 
  
 <img src="images/hdmi-cable.png" height="150" width="125" >
 * Un câble HDMI
- * <a rel="nofollow" href="https://www.amazon.fr/gp/product/B014I8SSD0/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B014I8SSD0&linkCode=as2&tag=curioschron01-21">Nous vous suggerons ce câble HDMI 2.0 de 1,8 m à 6,5€. Ne prenez pas moins d'un mètre, c'est souvent trop court pour se connecter confortablement à l'ordinateur ou la TV.</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B014I8SSD0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+ * Nous vous suggerons un câble HDMI 2.0 de 1,8 m, comptez environ 7€. Ne prenez pas moins d'un mètre, c'est souvent trop court pour se connecter confortablement à l'ordinateur ou la TV.
  
  <img src="images/power-supply.png" height="150" width="125" >
 * Une alimentation micro USB
- * Nous vous conseillons <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01M58O9M9/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01M58O9M9&linkCode=as2&tag=curioschron01-21">cette alimentation Aukru à 13€ </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01M58O9M9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> car elle est munie d'un interrupteur. C'est très pratique car nous allons faire des montages et donc nous allons devoir éteindre et allumer fréquemment le Raspberry Pi. Sans ce bouton, on se retrouve à devoir tirer sur la fiche tout en tenant du bout des doigts la carte pour ne pas mettre les mains sur les composants, c'est moins pratique.
- * Si vous voulez aller au plus économique, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01566WOAG/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01566WOAG&linkCode=as2&tag=curioschron01-21">cette autre alimentation Aukru coûte 11€, est très bien notée</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01566WOAG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> mais n'a pas d'interrupteur. 
-
+ * Nous vous conseillons de prendre une alimentation munie d'un interrupteur. C'est très pratique car nous allons faire des montages et donc nous allons devoir éteindre et allumer fréquemment le Raspberry Pi. Sans ce bouton, on se retrouve à devoir tirer sur la fiche tout en tenant du bout des doigts la carte pour ne pas mettre les mains sur les composants, c'est moins pratique. Ca ne vous coutera que 2€ de plus qu'une alimentation normale.
+ * Si vous voulez aller au plus économique, comptez 11€.
 
 <img src="images/noobs-card.png" height="150" width="125" >
 * Une carte SD
- * le minimum est de 8 Go mais nous vous conseillons pour quelques euros de plus de prendre <a rel="nofollow" href="https://www.amazon.fr/gp/product/B013UDL5V6/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B013UDL5V6&linkCode=as2&tag=curioschron01-21">cette carte Mémoire microSDHC SanDisk Ultra 16GB </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B013UDL5V6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> très rapide et à moins de 9 €.
-
+ * le minimum est de 8 Go mais nous vous conseillons pour quelques euros de plus de prendre une carte Mémoire microSDHC SanDisk Ultra 16GB  très rapide et à moins de 9 €.
 
 ### Les périphériques indispensables :
 
 * Un écran de télévision ou un moniteur, dans tous les cas avec une entrée HDMI.
 ![](images/monitor.png =150x125)
 Le plus simple est certainement de prendre votre TV, mais si vous n'avez rien, vous pouvez acheter des écrans de Raspberry pour une somme modique :
- * Nous ne l'avons pas testé, mais <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01HPV7D38/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01HPV7D38&linkCode=as2&tag=curioschron01-21">Cet écran LDC 5 pouces à 35 €</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01HPV7D38" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> est très bien noté par les clients.
- * Ou vous pouvez opter pour <a rel="nofollow" href="https://www.amazon.fr/gp/product/B014WKCFR4/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B014WKCFR4&linkCode=as2&tag=curioschron01-21"> l'écran tactile 7 pouces Raspberry Pi à 84€</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B014WKCFR4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+ * Nous ne l'avons pas testé, mais vous trouverez sur Amazon un écran LDC 5 pouces à 35 € très bien noté par les clients.
+ * Ou vous pouvez opter pour pour l'écran tactile 7 pouces Raspberry Pi à 85€.
 
 <img src="images/keyboard.png" height="150" width="125" ><img src="images/mouse.png" height="150" width="125" >
 * Un clavier et une souris.
- * Si vous ne voulez pas vous en servir tous les jours, vous pouvez opter pour cet ensemble premier prix clavier souris Bluestork à environ 9€. <a rel="nofollow" href="https://www.amazon.fr/gp/product/B005MMIG02/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B005MMIG02&linkCode=as2&tag=curioschron01-21">Bluestork BS-PACK-FIRST-II/F Clavier multimédia AZERTY + Souris filaire - Noir</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B005MMIG02" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
- * Si vous ne voulez pas vous encombrer d'un grand clavier, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01B17SSYU/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01B17SSYU&linkCode=as2&tag=curioschron01-21">ce mini clavier avec trackpad intégré Geartist</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01B17SSYU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> fonctionne sans fil et s'installe hyper quelques secondes. Pour 16€, vous avez un clavier qui rentre dans tiroir, et qui peut vous servir pour votre Google TV, Xbox, PS3, etc. Attention en revanche, le clavier est en QWERTY et le trackpad est moins pratique qu'une souris à main.
- * Si vous voulez investir dans un clavier et une souris de bonne qualité avec un budget restant raisonnable, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B00BF5QDZU/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B00BF5QDZU&linkCode=as2&tag=curioschron01-21">cet ensemble clavier + Souris - Logitech Combo MK270 sans fil</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B00BF5QDZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> est une valeur sûre et une des meilleurs ventes de la catégorie, pour moins de 25€.
-
+ * Si vous ne voulez pas vous en servir tous les jours, vous pouvez opter pour un ensemble premier prix clavier souris, les prix commencent à environ 9€. 
+ * Si vous ne voulez pas vous encombrer d'un grand clavier, un mini clavier avec trackpad intégré Geartist qui fonctionne sans fil et s'installe en quelques secondes. Pour 16€, vous avez un clavier qui rentre dans tiroir, et qui peut vous servir pour votre Google TV, Xbox, PS3, etc. Attention en revanche, le clavier est en QWERTY et le trackpad est moins pratique qu'une souris à main.
+ * Si vous voulez investir dans un clavier et une souris de bonne qualité avec un budget restant raisonnable, l'ensemble clavier + Souris - Logitech Combo MK270 sans fil est une valeur sûre et une des meilleurs ventes de la catégorie, pour moins de 25€.
 
 ### Les éléments facultatifs mais pratiques
 * Un volmètre pour mesurer les courants et les tensions pour mieux comprendre vos montages et résoudre les problèmes.
- * Nous avons testé <a rel="nofollow" href="https://www.amazon.fr/gp/product/B011NP2DGY/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B011NP2DGY&linkCode=as2&tag=curioschron01-21">ce premier prix à moins de 10€. Il ne durera pas toute une vie mais il fait le boulot correctement</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B011NP2DGY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
- * Sinon, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B00S7J7L7Q/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B00S7J7L7Q&linkCode=as2&tag=curioschron01-21">ce multimètre à 19€</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B00S7J7L7Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> semble être une valeur sûre et plus robuste.
+ * Nous avons testé un voltmètre premier KKmoon A830L prix à moins de 10€. Il ne durera pas toute une vie mais il fait le boulot correctement.
+ * Sinon, le multimètre à 19€ Etekcity semble être une valeur sûre et plus robuste.
  
 ### Le système d'exploitation
 Pour commencer, il vous faudra également un système d'exploitation (OS). NOOBS est un installateur d'OS hyper facile à utiliser pour Raspberry Pi. Raspbian est l'OS le plus répandu dans le monde Raspberry Pi.
@@ -63,20 +62,18 @@ Pour commencer, il vous faudra également un système d'exploitation (OS). NOOBS
 
 Le moyen le plus simple est le plus rapide est d'acheter une carte SD où le software est déjà installé. Si vous avez déjà acheté une de ces carte, alors vous pouvez sauter jusqu'à la section 'Brancher for Raspberry Pi' un peu plus bas.
 
-<a rel="nofollow" href="https://www.amazon.fr/gp/product/B01CCM6B1K/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01CCM6B1K&linkCode=as2&tag=curioschron01-21">Carte SD officielle de 8 Go</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01CCM6B1K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a rel="nofollow" href="https://www.amazon.fr/gp/product/B01CCM6B1K/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01CCM6B1K&linkCode=as2&tag=curioschron01-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01CCM6B1K&Format=_SL110_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=curioschron01-21" ></a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01CCM6B1K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
+<img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01CCM6B1K&Format=_SL110_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=curioschron01-21" >
 
 ## Solution n°2 : Charger vous-même NOOBS ou Raspbian sur une carte SD vierge.
 
-L'autre solution est de télécharger NOOBS ou Raspian gratuitement et de l'installer sur votre carte. Prenez une carte d'au minimum 8 Go. Si vous n'en avez pas, pour moins de 10 euros, nous vous conseillons cette <a rel="nofollow" href="https://www.amazon.fr/gp/product/B013UDL5V6/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B013UDL5V6&linkCode=as2&tag=curioschron01-21">carte microSDHC SanDisk Ultra 16GB classe 10, avec une vitesse de lecture élevée.</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B013UDL5V6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+L'autre solution est de télécharger NOOBS ou Raspian gratuitement et de l'installer sur votre carte. Prenez une carte d'au minimum 8 Go. Si vous n'en avez pas, pour moins de 10 euros, nous vous conseillons une carte microSDHC SanDisk Ultra 16GB classe 10, avec une vitesse de lecture élevée. <img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B013UDL5V6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Formatez votre carte SD
 Le mieux est de formater votre carte SD sur votre PC ou portable avant d'y copier les fichiers NOOBS ou l'image Raspbian.
 Pour ce faire:
 
-1. Visitez le site [SD Association](http://www.sdcard.org/) et téléchargez [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) pour Windows ou Mac.
+1. Visitez le site SD Association et téléchargez SD Formatter 4.0 pour Windows ou Mac.
 1. Suivez les instructions pour installer l'application.
 1. Inserez votre carte SD dans votre lecteur de carte ou prenez note de la lettre du lecteur associé, par exemple: `F:/`.
 1. Dans SD Formatter, selectionnez la lettre du lecteur de votre carte SD card et formattez la.
@@ -85,7 +82,7 @@ Pour ce faire:
 
 ### Téléchargez les fichiers NOOBS et glissez-déposez dans la carte
 
-1. Toujours sur votre ordinateur, visitez [le site officiel Raspberry](http://www.raspberrypi.org/downloads/).
+1. Toujours sur votre ordinateur, visitez le site officiel Raspberry.
 
   ![](images/siteHome.png)
 
@@ -106,7 +103,7 @@ Pour ce faire:
 
 La solution alternative à NOOBS et de télécharger et installer directement une image fonctionnelle sur la carte SD. C'est plus rapide et aussi très pratique lorsque vous devez préparez plusieurs cartes pour un atelier ou un cours.
 
-1. En utilisant un ordinateur muni d'un lecteur de cartes SD, visitez le site officiel Raspberry Pi [page téléchargements](http://www.raspberrypi.org/downloads/).
+1. En utilisant un ordinateur muni d'un lecteur de cartes SD, visitez le site officiel Raspberry Pi page téléchargements.
 1. Cliquez sur **Raspbian**.
 
   ![](images/noobs1.png)
@@ -116,7 +113,7 @@ La solution alternative à NOOBS et de télécharger et installer directement un
 
   ![](images/noobs2.png)
 
-1. Visitez [etcher.io](http://www.etcher.io/), et téléchargez et installez Etcher SD card image utility.
+1. Visitez le site d'Etcher, et téléchargez et installez Etcher SD card image utility.
 1. Démarrez Etcher et sélecitonnez l'image Raspbian que vous avez décompressée sur votre ordinateur.
 1. Selectionnez le lecteur de la carte SD. Remarquez que l'application a peut être sélectionné par défaut le bon lecteur.
 1. Enfin, cliquez sur **Burn** pour transferer Raspbian sur la carte SD. Lorsque c'est terminé l'application ejecte automatiquement la carte, qui peut être retirée de l'ordinateur en sécurité.
@@ -153,4 +150,4 @@ La solution alternative à NOOBS et de télécharger et installer directement un
 
 ## Que faire ensuite ?
 
-Votre Raspberry Pi fonctionne! Vous pouvez maintenant passer au [tutorial Internet des Objets](https://github.com/saucesamourai/Raspberry-Pi-tutoriel-debutant-Internet-des-objets-Build-Play/blob/master/README.md), votre premier projet!
+Votre Raspberry Pi fonctionne! Vous pouvez maintenant passer au tutorial Internet des Objets en suivant le lien contenu dans votre kit!
