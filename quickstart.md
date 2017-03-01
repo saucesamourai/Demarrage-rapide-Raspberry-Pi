@@ -61,7 +61,7 @@ Pour commencer, il vous faudra également un système d'exploitation (OS). NOOBS
 
 ## Solution n°1 : Acheter un carte SD avec NOOBS préinstallé
 
-Le moyen le plus simple est le plus rapide est d'acheter une carte SD où le software est déjà installé. Si vous avez déjà acheté une de ces carte, alors vous pouvez sauter jusqu'à la section 'Brancher for Raspberry Pi' un peu plus bas.
+Le moyen le plus simple est le plus rapide est d'acheter une carte SD où le software est déjà installé. Si vous avez déjà acheté une de ces carte, alors vous pouvez sauter jusqu'à la section 'Brancher votre Raspberry Pi' un peu plus bas.
 
 <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01CCM6B1K/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01CCM6B1K&linkCode=as2&tag=curioschron01-21">Carte SD officielle de 8 Go</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01CCM6B1K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -95,9 +95,8 @@ Pour ce faire:
 
 1. Cliquez sur le bouton **Download ZIP** sous ‘NOOBS (offline and network install)’, et sélectionnez le dossier de destination.
 1. Extrayez les fichiers du zip.
-1. Once your SD card has been formatted, drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
-1. The necessary files will then be transferred to your SD card.
-1. When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
+1. Lorsque la carte SD est formatée, glissez-déposez les fichiers depuis le dossier extrait de NOOBS vers la carte SD.
+1. Lorsque le transfert est terminé, retirer en tout sécurité la carte SD et insérez la dans le Raspberry Pi.
 
 <iframe src="https://player.vimeo.com/video/90518800" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p></p>
@@ -117,7 +116,7 @@ La solution alternative à NOOBS et de télécharger et installer directement un
   ![](images/noobs2.png)
 
 1. Visitez [etcher.io](http://www.etcher.io/), et téléchargez et installez Etcher SD card image utility.
-1. Démarrez Etcher et sélecitonnez l'image Raspbian que vous avez décompressée sur votre ordinateur.
+1. Démarrez Etcher et sélectionnez l'image Raspbian que vous avez décompressée sur votre ordinateur.
 1. Selectionnez le lecteur de la carte SD. Remarquez que l'application a peut être sélectionné par défaut le bon lecteur.
 1. Enfin, cliquez sur **Burn** pour transferer Raspbian sur la carte SD. Lorsque c'est terminé l'application ejecte automatiquement la carte, qui peut être retirée de l'ordinateur en sécurité.
 
