@@ -37,8 +37,8 @@ Sinon, vous pouvez acheter les éléments séparément :
 
 ### Les périphériques indispensables :
 
+<img src="images/monitor.png" height="150" width="125" ><img src="images/mouse.png" height="150" width="125" >
 * Un écran de télévision ou un moniteur, dans tous les cas avec une entrée HDMI.
-![](images/monitor.png =150x125)
 Le plus simple est certainement de prendre votre TV, mais si vous n'avez rien, vous pouvez acheter des écrans de Raspberry pour une somme modique :
  * Nous ne l'avons pas testé, mais vous trouverez sur Amazon un écran LDC 5 pouces à 35 € très bien noté par les clients.
  * Ou vous pouvez opter pour pour l'écran tactile 7 pouces Raspberry Pi à 85€.
@@ -60,7 +60,7 @@ Pour commencer, il vous faudra également un système d'exploitation (OS). NOOBS
 
 ## Solution n°1 : Acheter un carte SD avec NOOBS préinstallé
 
-Le moyen le plus simple est le plus rapide est d'acheter une carte SD où le software est déjà installé. Si vous avez déjà acheté une de ces carte, alors vous pouvez sauter jusqu'à la section 'Brancher for Raspberry Pi' un peu plus bas.
+Le moyen le plus simple est le plus rapide est d'acheter une carte SD où le software est déjà installé. Si vous avez déjà acheté une de ces carte, alors vous pouvez sauter jusqu'à la section 'Brancher votre Raspberry Pi' un peu plus bas.
 
 
 <img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01CCM6B1K&Format=_SL110_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=curioschron01-21" >
@@ -92,9 +92,8 @@ Pour ce faire:
 
 1. Cliquez sur le bouton **Download ZIP** sous ‘NOOBS (offline and network install)’, et sélectionnez le dossier de destination.
 1. Extrayez les fichiers du zip.
-1. Lorsque la carte SD est formatée, glissez-déposez Once your SD card has been formatted, drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
-1. The necessary files will then be transferred to your SD card.
-1. When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
+1. Lorsque la carte SD est formatée, glissez-déposez les fichiers depuis le dossier extrait de NOOBS vers la carte SD.
+1. Lorsque le transfert est terminé, retirer en tout sécurité la carte SD et insérez la dans le Raspberry Pi.
 
 <iframe src="https://player.vimeo.com/video/90518800" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p></p>
@@ -114,7 +113,7 @@ La solution alternative à NOOBS et de télécharger et installer directement un
   ![](images/noobs2.png)
 
 1. Visitez le site d'Etcher, et téléchargez et installez Etcher SD card image utility.
-1. Démarrez Etcher et sélecitonnez l'image Raspbian que vous avez décompressée sur votre ordinateur.
+1. Démarrez Etcher et sélectionnez l'image Raspbian que vous avez décompressée sur votre ordinateur.
 1. Selectionnez le lecteur de la carte SD. Remarquez que l'application a peut être sélectionné par défaut le bon lecteur.
 1. Enfin, cliquez sur **Burn** pour transferer Raspbian sur la carte SD. Lorsque c'est terminé l'application ejecte automatiquement la carte, qui peut être retirée de l'ordinateur en sécurité.
 
