@@ -92,7 +92,7 @@ Pour ce faire:
 
 1. Cliquez sur le bouton **Download ZIP** sous ‘NOOBS (offline and network install)’, et sélectionnez le dossier de destination.
 1. Extrayez les fichiers du zip.
-1. Once your SD card has been formatted, drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
+1. Lorsque la carte SD est formatée, glissez-déposez Once your SD card has been formatted, drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
 1. The necessary files will then be transferred to your SD card.
 1. When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
 
