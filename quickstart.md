@@ -14,22 +14,28 @@ Si vous n'avez encore rien acheté, le plus simple est peut être de prendre <a 
 
 Sinon, vous pouvez acheter les éléments séparément :
 
-* Un Raspberry Pi 3, évidemment. <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01CD5VC92/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01CD5VC92&linkCode=as2&tag=curioschron01-21">Vous le trouverez ici pour 45€ environ. </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01CD5VC92" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* Un Raspberry Pi 3, évidemment. 
+![](images/raspberry-pi.png)
+* <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01CD5VC92/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01CD5VC92&linkCode=as2&tag=curioschron01-21">Vous le trouverez ici pour 45€ environ. </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01CD5VC92" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * Un câble HDMI
+![](images/hdmi-cable.png)
  * <a rel="nofollow" href="https://www.amazon.fr/gp/product/B014I8SSD0/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B014I8SSD0&linkCode=as2&tag=curioschron01-21">Nous vous suggerons ce câble HDMI 2.0 de 1,8 m à 6,5€. Ne prenez pas moins d'un mètre, c'est souvent trop court pour se connecter confortablement à l'ordinateur ou la TV.</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B014I8SSD0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * Une alimentation micro USB
+![](images/power-supply.png)
  * Nous vous conseillons <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01M58O9M9/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01M58O9M9&linkCode=as2&tag=curioschron01-21">cette alimentation Aukru à 13€ </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01M58O9M9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> car elle est munie d'un interrupteur. C'est très pratique car nous allons faire des montages et donc nous allons devoir éteindre et allumer fréquemment le Raspberry Pi. Sans ce bouton, on se retrouve à devoir tirer sur la fiche tout en tenant du bout des doigts la carte pour ne pas mettre les mains sur les composants, c'est moins pratique.
  * Si vous voulez aller au plus économique, <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01566WOAG/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01566WOAG&linkCode=as2&tag=curioschron01-21">cette autre alimentation Aukru coûte 11€, est très bien notée</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01566WOAG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> mais n'a pas d'interrupteur. 
 
-* Une carte SD, le minimum est de 8 Go mais nous vous conseillons pour quelques euros de plus de prendre <a rel="nofollow" href="https://www.amazon.fr/gp/product/B013UDL5V6/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B013UDL5V6&linkCode=as2&tag=curioschron01-21">cette carte Mémoire microSDHC SanDisk Ultra 16GB </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B013UDL5V6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> très rapide et à moins de 8 €.
+* Une carte SD!
+[](images/noobs-card.png)
+ * le minimum est de 8 Go mais nous vous conseillons pour quelques euros de plus de prendre <a rel="nofollow" href="https://www.amazon.fr/gp/product/B013UDL5V6/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B013UDL5V6&linkCode=as2&tag=curioschron01-21">cette carte Mémoire microSDHC SanDisk Ultra 16GB </a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B013UDL5V6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> très rapide et à moins de 9 €.
 
 
 ### Les périphériques indispensables :
 
 * Un écran de télévision ou un moniteur, dans tous les cas avec une entrée HDMI.
-![](monitor.png)
+![](images/monitor.png)
 Le plus simple est certainement de prendre votre TV, mais si vous n'avez rien, vous pouvez acheter des écrans de Raspberry pour une somme modique :
  * Nous ne l'avons pas testé, mais <a rel="nofollow" href="https://www.amazon.fr/gp/product/B01HPV7D38/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B01HPV7D38&linkCode=as2&tag=curioschron01-21">Cet écran LDC 5 pouces à 35 €</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B01HPV7D38" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> est très bien noté par les clients.
  * Ou vous pouvez opter pour <a rel="nofollow" href="https://www.amazon.fr/gp/product/B014WKCFR4/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B014WKCFR4&linkCode=as2&tag=curioschron01-21"> l'écran tactile 7 pouces Raspberry Pi à 84€</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=curioschron01-21&l=as2&o=8&a=B014WKCFR4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
